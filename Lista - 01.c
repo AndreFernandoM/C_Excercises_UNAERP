@@ -10,9 +10,6 @@ float calc_volum(float r){
 }
 
 
-
-
-
 int main(){
 	float raio, volume;
 	
