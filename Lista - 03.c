@@ -24,9 +24,6 @@ bool primo_check(unsigned int x){
 }
 
 
-
-
-
 int main(){
 	int inteiro;
 	bool final;
